@@ -25,7 +25,7 @@ OutSystems
 ✅Ordenar serviços de limpeza por quarto /empregado/ tipo de limpeza/ data   
 ✅Filtrar limpezas por número do quarto
 
-📸 Demonstraçao do projeto:
-🎥 Assista à demonstração do projeto
+📸 O projeto:
+  
 
 🚀 Feito com 💙 por Milene Farias
