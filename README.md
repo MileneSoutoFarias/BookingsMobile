@@ -26,6 +26,12 @@ OutSystems
 ✅Filtrar limpezas por número do quarto
 
 📸 O projeto:
-  
+
+  ## 📸 Galeria de Imagens  
+
+| Imagem 1 | Imagem 2 | Imagem 3 |
+|----------|----------|----------|
+| ![Img1]([caminho/para/imagem1.jpg](https://github.com/MileneSoutoFarias/BookingsMobile/blob/main/bookings%20mobile%20ecras/Captura%20de%20ecr%C3%A3%202025-01-31%20105854.png)) | ![Img2](caminho/para/imagem2.jpg) | ![Img3](caminho/para/imagem3.jpg) |
+
 
 🚀 Feito com 💙 por Milene Farias
