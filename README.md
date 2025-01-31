@@ -27,9 +27,8 @@ OutSystems
 
 📸 O projeto:
 
-![Descrição da Imagem](https://github.com/MileneSoutoFarias/BookingsMobile/blob/main/bookings%20mobile%20ecras/Captura%20de%20ecr%C3%A3%202025-01-31%20105854.png)
-![Descrição da Imagem](https://github.com/MileneSoutoFarias/BookingsMobile/blob/main/bookings%20mobile%20ecras/Captura%20de%20ecr%C3%A3%202025-01-31%20110018.png)
-![Descrição da Imagem](https://github.com/MileneSoutoFarias/BookingsMobile/blob/main/bookings%20mobile%20ecras/Captura%20de%20ecr%C3%A3%202025-01-31%20105929.png)  
+![Descrição da Imagem](https://drive.google.com/file/d/1CXVoQKB7cOP75OXWriBHch-HUIo1k92j/view?usp=sharing)
+
 [Ver Mais](https://github.com/MileneSoutoFarias/BookingsMobile/tree/main/bookings%20mobile%20ecras) 
 
 
