@@ -27,7 +27,7 @@ OutSystems
 
 📸 O projeto:
 
-![Descrição da Imagem](https://drive.google.com/file/d/1CXVoQKB7cOP75OXWriBHch-HUIo1k92j/view?usp=sharing)
+![Descrição da Imagem](https://github.com/MileneSoutoFarias/BookingsMobile/blob/main/bookings%20mobile%20ecras/Sem%20nome%20(1080%20x%201080%20px)%20(Miniatura%20do%20YouTube).png)
 
 [Ver Mais](https://github.com/MileneSoutoFarias/BookingsMobile/tree/main/bookings%20mobile%20ecras) 
 
