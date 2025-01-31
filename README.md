@@ -5,15 +5,16 @@ Plataforma mobile para gestão hoteleira direcionada ao staff do hotel, utilizan
 🚀 Tecnologias Utilizadas :
 OutSystems
 
-📌 Funcionalidades
+📌 Funcionalidades  
+
 ✅Adicionar uma reserva    
 ✅Alterar estado de uma reserva    
 ✅Listar reservas   
 ✅Ordenar reservas por nome/ número de quarto/ data de check-in/ data de check-out/ estado    
 ✅Filtrar Reserva por apelido ou estado da reserva ou ambos     
-✅Listar quartos 
-✅Ordenar quartos por número/ capacidade de adultos/capacidade de crianças/ preço 
-✅Editar atributos de um quarto 
+✅Listar quartos     
+✅Ordenar quartos por número/ capacidade de adultos/capacidade de crianças/ preço   
+✅Editar atributos de um quarto    
 ✅Adicionar / remover comunidades  
 ✅Listar comunidades de um quarto  
 ✅Visualizar gráfico com ocupação do hotel nos próximos dias   
